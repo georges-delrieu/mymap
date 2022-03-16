@@ -67,14 +67,14 @@
                  "opacity":1,
                  "properties":[
                         {
-                         "name":"openWebsite",
+                         "name":"discord-channel",
                          "type":"string",
-                         "value":"https:\/\/e.widgetbot.io\/channels\/920230032708874291\/920624407259521024"
+                         "value":"920233337518432276"
                         }, 
                         {
-                         "name":"openWebsiteWidth",
-                         "type":"int",
-                         "value":50
+                         "name":"discord-server",
+                         "type":"string",
+                         "value":"920230032708874291"
                         }],
                  "type":"tilelayer",
                  "visible":true,
